@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pig-evolution/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/3.pig-evolution/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/1.whitefish-biogeography/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/2.whitefish-translocation/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/phd/</loc>
+    <lastmod>2019-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/__marco-crotti__/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/articles/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/colin-adams/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kathryn-elmer/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/snps_epirad/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/common_garden_morpho/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-peter-koene/</loc>
+    <lastmod>2019-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/afrixalus_missingdata/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-barratt/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-gower/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jeffrey-streicher/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/simon-loader/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/antoine-souron/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dawid-iurino/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leonardo-sorbelli/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/marco-cherin/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/strozzii_italy/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raffaele-sardella/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-cannatella/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-waddell/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pristimantis/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-lougheed/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/roguenarok/</loc>
+    <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-wilkinson/</loc>
+    <lastmod>2017-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/trematodes/</loc>
+    <lastmod>2013-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+</urlset>

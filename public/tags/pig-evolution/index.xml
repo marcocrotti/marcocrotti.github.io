@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pig evolution | Marco Crotti</title>
+    <link>/tags/pig-evolution/</link>
+      <atom:link href="/tags/pig-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>pig evolution</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>pig evolution</title>
+      <link>/tags/pig-evolution/</link>
+    </image>
+    
+    <item>
+      <title>Taxonomy and evolution of pigs</title>
+      <link>/project/3.pig-evolution/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/3.pig-evolution/</guid>
+      <description>&lt;p&gt;This is a project I started with a palaeontologist friend on mine for fun few years ago.
+The overall aim is to better understand the taxonomy and evolutionary history of extinct suids,
+a group for which we have lots of material (fossils) but that currently suffer from taxonomic confusion.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2018.06.029&#34; target=&#34;_blank&#34;&gt;first article&lt;/a&gt; of the project, we
+describe a mandible belonging to &lt;em&gt;Sus strozzii&lt;/em&gt; from the site of Pantalla, Italy; from there,
+we reconstruct the most comprehensive phylogenetic tree for the subfamily suinae, disproving
+previous hypotheses of species relationships.&lt;/p&gt;
+
+&lt;p&gt;A second article (submitted) deals with the study of suid fossils from the Middle-Pleistocene
+of Spain. More importantly, for the first time we show with statistical approaches the difference
+between &amp;ldquo;verrucosic&amp;rdquo; and &amp;ldquo;scrofic&amp;rdquo; canines, which is an important character for species
+distinction within the genus &lt;em&gt;Sus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please visit the github &lt;a href=&#34;https://github.com/marcocrotti/Evolutionary-history-of-pigs.git&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt; for more details and info.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

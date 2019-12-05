@@ -1,0 +1,19 @@
+# Theme metadata
+name = "marco"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#2292a4"
+
+# Menu
+menu_primary = "#2292a4"
+menu_text = "#333"
+menu_text_active = "#E58601"
+menu_title = "#333"
+
+# Backgrounds
+background = "#FFFAFA"
+home_section_odd = "#FFFAFA"
+home_section_even = "#FFFAFA"

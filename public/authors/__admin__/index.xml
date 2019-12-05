@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__admin__ | Marco Crotti</title>
+    <link>/authors/__admin__/</link>
+      <atom:link href="/authors/__admin__/index.xml" rel="self" type="application/rss+xml" />
+    <description>__admin__</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>__admin__</title>
+      <link>/authors/__admin__/</link>
+    </image>
+    
+    <item>
+      <title>Comments on detecting rogue taxa using RogueNaRok</title>
+      <link>/publication/roguenarok/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/roguenarok/</guid>
+      <description>&lt;p&gt;Scripts available at my &lt;a href=&#34;https://github.com/marcocrotti/SNPs-EpiRAD&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

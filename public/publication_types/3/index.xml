@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Marco Crotti</title>
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Population genomic SNPs from epigenetic RADs</title>
+      <link>/publication/snps_epirad/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/snps_epirad/</guid>
+      <description>&lt;p&gt;Scripts available at my &lt;a href=&#34;https://github.com/marcocrotti/SNPs-EpiRAD&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

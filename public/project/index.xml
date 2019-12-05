@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Marco Crotti</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Taxonomy and evolution of pigs</title>
+      <link>/project/3.pig-evolution/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/3.pig-evolution/</guid>
+      <description>&lt;p&gt;This is a project I started with a palaeontologist friend on mine for fun few years ago.
+The overall aim is to better understand the taxonomy and evolutionary history of extinct suids,
+a group for which we have lots of material (fossils) but that currently suffer from taxonomic confusion.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href=&#34;https://doi.org/10.1016/j.quascirev.2018.06.029&#34; target=&#34;_blank&#34;&gt;first article&lt;/a&gt; of the project, we
+describe a mandible belonging to &lt;em&gt;Sus strozzii&lt;/em&gt; from the site of Pantalla, Italy; from there,
+we reconstruct the most comprehensive phylogenetic tree for the subfamily suinae, disproving
+previous hypotheses of species relationships.&lt;/p&gt;
+
+&lt;p&gt;A second article (submitted) deals with the study of suid fossils from the Middle-Pleistocene
+of Spain. More importantly, for the first time we show with statistical approaches the difference
+between &amp;ldquo;verrucosic&amp;rdquo; and &amp;ldquo;scrofic&amp;rdquo; canines, which is an important character for species
+distinction within the genus &lt;em&gt;Sus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please visit the github &lt;a href=&#34;https://github.com/marcocrotti/Evolutionary-history-of-pigs.git&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt; for more details and info.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biogeography of European whitefish in the UK</title>
+      <link>/project/1.whitefish-biogeography/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/1.whitefish-biogeography/</guid>
+      <description>&lt;p&gt;European whitefish &lt;em&gt;Coregonus lavaretus&lt;/em&gt; is a very widespread species, ranging from western Europe to Siberia. There are currently two to three recognised major mitochondrial lineages, which have evolved in allopatry during the last ice age.
+In the UK there are seven native populations of whitefish, but their relationship with continental populations is still unknown. The aim of this project is to reconstruct the biogeography and demographic history of European whitefish in the British Isles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionary implications of translocations</title>
+      <link>/project/2.whitefish-translocation/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/2.whitefish-translocation/</guid>
+      <description>&lt;p&gt;Understanding how colonisation of novel environments and the frequently associated reduction in population size and genetic variation affect founder populations is a major question in evolutionary and conservation biology. Translocations have become an important tool for species conservation, but small population sizes and new ecological pressures might lead to the phenotypic and genotypic divergence of translocated populations.
+Divergent methylation patterns have been reported between individuals experiencing divergent environmental conditions and, similarly, it has been suggested that epigenetic modifications might compensate for low genetic diversity in bottlenecked populations. While it has been shown that colonisation of a new environment can lead to rapid divergence in phenotypic traits between source and colonising population, the drivers of this divergence and their interaction are not well understood: is phenotypic plasticity, e.g. through epigenetic modifications, the main reason for rapid phenotypic divergence? Is genetic drift the main force behind divergence? Or is phenotypic divergence mainly the result of very rapid genetic adaptation to the new environmental pressures?
+In Scotland, European whitefish Coregonus lavaretus is natively present in only two lakes, but six refuge populations were established over the last 30 years. We know from phenotypic analyses that these refuge populations have already diverged from the source in several traits after few generations. Therefore, these translocations provide an excellent study system to disentangle the effect of plasticity, drift, and selection in promoting the observed phenotypic divergence between source and colonising populations, and to better understand the impacts colonisation has on the evolution of natural populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

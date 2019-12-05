@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Marco Crotti</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>__Marco Crotti__</title>
+      <link>/authors/__marco-crotti__/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/__marco-crotti__/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colin Adams</title>
+      <link>/authors/colin-adams/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/colin-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathryn Elmer</title>
+      <link>/authors/kathryn-elmer/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kathryn-elmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Peter Koene</title>
+      <link>/authors/j.-peter-koene/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-peter-koene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently working on my PhD in evolutionary biology, with interests in the field of
+population genetics and phylogenetics, taxonomy and macroevolution, bioinformatics and data science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chris Barratt</title>
+      <link>/authors/chris-barratt/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-barratt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Gower</title>
+      <link>/authors/david-gower/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-gower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Streicher</title>
+      <link>/authors/jeffrey-streicher/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jeffrey-streicher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Loader</title>
+      <link>/authors/simon-loader/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/simon-loader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antoine Souron</title>
+      <link>/authors/antoine-souron/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/antoine-souron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dawid Iurino</title>
+      <link>/authors/dawid-iurino/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/dawid-iurino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Sorbelli</title>
+      <link>/authors/leonardo-sorbelli/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/leonardo-sorbelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Cherin</title>
+      <link>/authors/marco-cherin/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-cherin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raffaele Sardella</title>
+      <link>/authors/raffaele-sardella/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/raffaele-sardella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Cannatella</title>
+      <link>/authors/david-cannatella/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/david-cannatella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Waddell*</title>
+      <link>/authors/emily-waddell/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/emily-waddell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Lougheed</title>
+      <link>/authors/stephen-lougheed/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-lougheed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Wilkinson</title>
+      <link>/authors/mark-wilkinson/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/mark-wilkinson/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
