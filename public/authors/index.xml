@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>...</title>
+      <link>/authors/.../</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/.../</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>__Marco Crotti__</title>
       <link>/authors/__marco-crotti__/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/__marco-crotti__/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aidah Wamboko</title>
+      <link>/authors/aidah-wamboko/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aidah-wamboko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arinaitwe Moses</title>
+      <link>/authors/arinaitwe-moses/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/arinaitwe-moses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina L. Faust</title>
+      <link>/authors/christina-l.-faust/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christina-l.-faust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Oguttu</title>
+      <link>/authors/david-oguttu/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-oguttu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poppy H. L. Lamberton</title>
+      <link>/authors/poppy-h.-l.-lamberton/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/poppy-h.-l.-lamberton/</guid>
       <description></description>
     </item>
     

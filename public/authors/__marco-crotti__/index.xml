@@ -5,12 +5,20 @@
     <link>/authors/__marco-crotti__/</link>
       <atom:link href="/authors/__marco-crotti__/index.xml" rel="self" type="application/rss+xml" />
     <description>__Marco Crotti__</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©</copyright><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>__Marco Crotti__</title>
       <link>/authors/__marco-crotti__/</link>
     </image>
+    
+    <item>
+      <title>Two-year longitudinal survey reveals high genetic diversity of Schistosoma mansoni with adult worms surviving praziquantel treatment at the start of mass drug administration in Uganda</title>
+      <link>/publication/schistosoma/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/schistosoma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Population genomic SNPs from epigenetic RADs</title>
