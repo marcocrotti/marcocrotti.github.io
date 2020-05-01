@@ -13,7 +13,7 @@ links:
 - icon: github
   icon_pack: fab
   name: materials
-  url: https://github.com/marcocrotti/Biogeography-of-European-whitefish.git
+  url: https://github.com/marcocrotti/Biogeography-of-European-whitefish
 
 categories:
 - research
