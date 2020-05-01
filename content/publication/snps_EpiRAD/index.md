@@ -13,7 +13,7 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: Methods in Ecology and Evolution
+publication: "*Methods in Ecology and Evolution*"
 #publication_short: In *STC*
 publication_types:
 - "3"
