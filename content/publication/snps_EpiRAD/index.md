@@ -16,7 +16,7 @@ projects:
 publication: "*Methods in Ecology and Evolution*"
 #publication_short: In *STC*
 publication_types:
-- "3"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
 summary: 
 tags:
