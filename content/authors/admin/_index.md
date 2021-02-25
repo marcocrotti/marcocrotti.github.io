@@ -42,7 +42,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently working on my PhD in evolutionary biology, with interests in the field of 
+I am currently working as a Research Associate focusing on using 
+whole exome sequencing to identify variants associated with cancer. I am interested in the field of 
 population genetics and phylogenetics, taxonomy and macroevolution, bioinformatics and data science. 
 
 
