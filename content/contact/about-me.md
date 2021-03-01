@@ -59,6 +59,9 @@ the Natural History Museum. I did not stray away too much from my undergraduate 
 of one African frog, *Afrixalus fornasini*, across its range. This project led in the end to an interesting, although a bit methodsy, 
 paper on the impact and causes of missing data in RADseq phylogenies (see publications).
 
-After that, I moved to the University of Glasgow for my phd. I currently work in the lab of [Kathryn Elmer](http://elmerlab.blogspot.com/),
+After that, I moved to the University of Glasgow for my phd, where I worked in the lab of [Kathryn Elmer](http://elmerlab.blogspot.com/),
 looking at the biogeography and conservation of European whitefish *Coregonus lavaretus* in Scotland.
 
+I am now working at [Centre for Cancer Genetic Epidemiology](https://ccge.medschl.cam.ac.uk/) as a Research Associate. My role involve the 
+analysis of whole exome sequencing data from the [BRIDGES project](https://bridges-research.eu/) to identify variants with
+an association with breast cancer.
