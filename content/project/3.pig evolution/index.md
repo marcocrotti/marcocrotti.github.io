@@ -28,7 +28,7 @@ describe a mandible belonging to *Sus strozzii* from the site of Pantalla, Italy
 we reconstruct the most comprehensive phylogenetic tree for the subfamily suinae, disproving 
 previous hypotheses of species relationships. 
 
-A second article (submitted) deals with the study of suid fossils from the Middle-Pleistocene
+A [second article](https://doi.org/10.1016/j.quascirev.2020.106234) deals with the study of suid fossils from the Middle-Pleistocene
 of Spain. More importantly, for the first time we show with statistical approaches the difference
 between "verrucosic" and "scrofic" canines, which is an important character for species 
 distinction within the genus *Sus*.
