@@ -62,6 +62,10 @@ paper on the impact and causes of missing data in RADseq phylogenies (see public
 After that, I moved to the University of Glasgow for my phd, where I worked in the lab of [Kathryn Elmer](http://elmerlab.blogspot.com/),
 looking at the biogeography and conservation of European whitefish *Coregonus lavaretus* in Scotland.
 
-I am now working at [Centre for Cancer Genetic Epidemiology](https://ccge.medschl.cam.ac.uk/) as a Research Associate. My role involve the 
+Currently I am working at [Centre for Cancer Genetic Epidemiology](https://ccge.medschl.cam.ac.uk/) as a Research Associate. My role involve the 
 analysis of whole exome sequencing data from the [BRIDGES project](https://bridges-research.eu/) to identify variants with
 an association with breast cancer.
+
+
+Recently I became an instructor for the [Carpentries](https://carpentries.org/), and helped with the teaching and organising of a few workshops. In addition, 
+I have acted as consultant for [Physalia](https://www.physalia-courses.org/), helping the client with their genomic project.
